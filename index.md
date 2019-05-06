@@ -58,7 +58,9 @@ I have very keen interest in cybersecurity competitions and practical applicatio
 * VC-bots: A Vehicular Cloud Computing Testbed with Mobile Robots, ACM First international workshop on internet of vehicles and vehicles of internet, 2016
 
 * Secure Mobile SDN, Masters Thesis, 2015
+
 <!--
+
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 # Ankur Chowdhary, PhD Candidate
 # Arizona State University
@@ -68,9 +70,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
--->
 
-<!--
 ### Header 3
 
 ```js
