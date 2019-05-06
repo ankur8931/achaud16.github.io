@@ -10,12 +10,13 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 -->
-
-# Ankur Chowdhary, PhD Candidate
-# Arizona State University
+I am a PhD student specializing in Cybersecurity at ASU. My research interests include Cloud Security, Software Defined Networks, AI and Web Security.
+I have very keen interest in cybersecurity competitions and practical applications of security.
 
 <!--
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+# Ankur Chowdhary, PhD Candidate
+# Arizona State University
 
 ## Header 2
 
